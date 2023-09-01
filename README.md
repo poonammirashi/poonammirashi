@@ -14,8 +14,8 @@
 - 🕸️ RESTful APIs 
 
 ### Projects
-- 🚀 [Project 1](https://github.com/Chat-app)
-- 🌟 [Project 2](https://github.com/Expense-app-Nosql)
+- 🚀 [Project 1](https://github.com/poonammirashi/poonammirashi/Chat-app)
+- 🌟 [Project 2](https://github.com/poonammirashi/poonammirashi/Expense-app-Nosql)
 
 ### Get in Touch
 - 📫 [Email](mailto:poonam200023@gmail.com)
